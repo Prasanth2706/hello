@@ -1,0 +1,29 @@
+<!DOCTYPE >
+<HTML LANG="EN-IND">
+<HEAD>
+<style>
+.mydiv{
+  background-color:lightgrey;
+  border:150px solid powderblue;
+  padding :30px;
+}
+</style>
+<TITLE> MY FIRST HTML PROGRAM </TITLE>
+</HEAD>
+<BODY>
+ <body style="background-color:powderblue;">
+<H1> <center> <style="background-color:violet;">BENEFITS OF STAYING IN BANGLORE</center></H1>
+<!-- This below is a paragrph code-->
+<P style = "font-size:150%;"> THERE ARE NUMEROUS BENEFITS IN SATYING IN BANGNLORE CITY.AS,<q>A APPLICATION DEVELOPER</q> ITS A WONDERFULL EXPERIANCE COMPARED TO THE <ABBR TITLE= "SOFTWARE DEVELOPMENT ENGINEER">SDE</ABBR> ROLE.</P>
+<P TITLE='THE TECH CITY "BANGLORE"'>THIS IS A WEB PAGE WHICH TALKS ABOUT THE MERITS OF BEING A <mark>DEVELOPER</mark> WORKING IN BANGLORE CITY.</P>
+<CENTER><button onclick=https://www.w3schools.com/>CLICK IT</button> </A></CENTER>
+ <pr><img src=/home/divum/Pictures/download.jpeg  HEIGHT ="130"> 
+ <center><bdo dir="rtl">Lets get started.</bdo></center>
+ <div class="mydiv">
+ <ADDRESS>
+PRASANTH,<br>
+BANGLORE,<BR>
+KARNATAKA,<BR>
+ </ADDRESS>
+</BODY>
+</HTML>
